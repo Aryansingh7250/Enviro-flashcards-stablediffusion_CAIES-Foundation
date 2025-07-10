@@ -59,7 +59,9 @@ streamlit run app.py
 Chandrakantsingh
 
 
-\
+https://cerulean-biscuit-26bb6e.netlify.app/
+
+
 
 
 
